@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Static Site Generator Example</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main><h1>Welcome</h1>
+<p>This site was generated entirely from markdown. To modify, please edit the markdown file in <code>content/index.md</code>. The generation is done through a Golang application that parses the markdown, wraps in a base HTML template found at <code>templates/base.html</code>, then outputs the result into the <code>public/</code>.</p>
+<h2>Usage</h2>
+<ol>
+<li>Modify the <code>index.md</code> file located in <code>content/</code></li>
+<li>If desired, modify the HTML file located in <code>templates/</code></li>
+<li>The application reads any CSS file named <code>style.css</code> in the <code>assets/</code> directory. If you don't wish to use The Monospace Web, simply replace the CSS with your own.</li>
+<li>Once finished, simply run the application with <code>go run .</code></li>
+</ol>
+<h2>Credits</h2>
+<ul>
+<li>This site generator uses Oskar Wickström's <a href="https://github.com/owickstrom/the-monospace-web">&quot;The Monospace Web&quot;</a> CSS file.</li>
+</ul>
+</main>
+  </body>
+</html>
