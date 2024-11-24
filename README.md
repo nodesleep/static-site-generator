@@ -6,10 +6,10 @@ This application generates static sites from markdown using Go. To modify, pleas
 
 Select the appropriate package for your system.
 
-- For Intel Macs: ["ssg-apple-intel-amd64.zip"](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-apple-intel-amd64.zip)
-- For Apple Silicon Macs: ["ssg-apple-silicon-arm64.zip"](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-apple-silicon-arm64.zip)
-- For Linux: ["ssg-linux-amd64.zip"](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-linux-amd64.zip)
-- For Windows ["ssg-windows-amd64.zip"](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-windows-amd64.zip)
+- For Intel Macs: [ssg-apple-intel-amd64.zip](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-apple-intel-amd64.zip)
+- For Apple Silicon Macs: [ssg-apple-silicon-arm64.zip](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-apple-silicon-arm64.zip)
+- For Linux: [ssg-linux-amd64.zip](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-linux-amd64.zip)
+- For Windows [ssg-windows-amd64.zip](https://github.com/nodesleep/static-site-generator/raw/refs/heads/main/pkg/ssg-windows-amd64.zip)
 
 Extract the files and modify to your liking.
 
